@@ -22,7 +22,7 @@ Imports Lab4vb
             Else
                 socket.Bulb = New BulbVenus
             End If
-
+         Dim test = "kerker"
             tempLst.Add(socket)
         Next
 
